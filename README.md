@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### Hello, my name is Carlos Moraes. I currently work with Angular and TypeScript in my daily life. But I intend to improve myself more in developing applications with Node, JavaScript, TypeScript, React and NestJs with relational databases.
+### Hello, my name is Carlos Moraes. I currently work with software development at Compass.uol
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos--moraes/)
 
 
