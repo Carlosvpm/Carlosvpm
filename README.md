@@ -12,3 +12,4 @@
 
 ![Carlos Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosvpm&show_icons=true&theme=dracula)
 
+![snake gif](https://github.com/Carlosvpm/Carlosvpm/blob/output/github-contribution-grid-snake.svg)
