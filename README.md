@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### Hello, my name is Carlos Moraes. I currently work with software development at Compass.uol
+### Hello, my name is Carlos Moraes. I currently work with Software Engineer
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos--moraes/)
 
 
