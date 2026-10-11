@@ -6,7 +6,7 @@ Usage: python scripts/render_heatmap_svg.py
 Output: contrib-heatmap.svg
 """
 import json
-from datetime import date
+from datetime import date, timedelta
 
 OUT = "contrib-heatmap.svg"
 data = json.load(open("data/contributions.json"))
@@ -20,13 +20,13 @@ BG, BORDER, FG, MUTED, GREEN = "#0d1117", "#30363d", "#c9d1d9", "#8b949e", "#3fb
 PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 
 first = date.fromisoformat(days[0]["date"])
-offset = (first.weekday() + 1) % 7  # GitHub rows start on Sunday
+week0 = first - timedelta(days=(first.weekday() + 1) % 7)  # GitHub rows start on Sunday
 cells, months = [], {}
 for i, d in enumerate(days):
-    pos = i + offset
-    col, row = divmod(pos, 7)
-    cells.append((col, row, d))
+    # position from the date itself, so gaps in the scraped data can't shift cells
     dt = date.fromisoformat(d["date"])
+    col, row = (dt - week0).days // 7, (dt.weekday() + 1) % 7
+    cells.append((col, row, d))
     if dt.day <= 7 and row == 0 or i == 0:
         months.setdefault(col, dt.strftime("%b"))
 
