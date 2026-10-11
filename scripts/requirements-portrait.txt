@@ -1,0 +1,6 @@
+# local only: regenerate ascii-portrait.svg from a new photo
+-r requirements.txt
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
