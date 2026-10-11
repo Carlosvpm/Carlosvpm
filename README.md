@@ -31,6 +31,6 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--moraes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos--moraes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosvpm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvpm/)
 
 </div>

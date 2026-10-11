@@ -35,7 +35,7 @@ INFO = [
     ("Infra", "Docker · Dokploy · GH Actions"),
     ("AI", "Multi-agent · Claude Code · n8n"),
     ("Langs", "TypeScript · Go · Python · Java"),
-    ("LinkedIn", "in/carlos--moraes"),
+    ("LinkedIn", "in/carlosvpm"),
 ]
 SWATCHES = ["#ff7b72", "#ffa657", "#d29922", "#3fb950", "#58a6ff", "#bc8cff", "#c9d1d9"]
 
