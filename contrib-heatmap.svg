@@ -386,10 +386,10 @@
 <rect class="c" style="animation-delay:0.972s" x="784.5" y="89.2" width="11" height="11" rx="2.5" fill="#0e4429"><title>22 on 2026-10-07</title></rect>
 <rect class="c" style="animation-delay:0.990s" x="784.5" y="103.6" width="11" height="11" rx="2.5" fill="#39d353"><title>99 on 2026-10-08</title></rect>
 <rect class="c" style="animation-delay:1.008s" x="784.5" y="118.0" width="11" height="11" rx="2.5" fill="#006d32"><title>25 on 2026-10-09</title></rect>
-<rect class="c" style="animation-delay:1.026s" x="784.5" y="132.4" width="11" height="11" rx="2.5" fill="#0e4429"><title>11 on 2026-10-10</title></rect>
-<rect class="c" style="animation-delay:0.936s" x="798.9" y="46.0" width="11" height="11" rx="2.5" fill="#0e4429"><title>1 on 2026-10-11</title></rect>
+<rect class="c" style="animation-delay:1.026s" x="784.5" y="132.4" width="11" height="11" rx="2.5" fill="#0e4429"><title>12 on 2026-10-10</title></rect>
+<rect class="c" style="animation-delay:0.936s" x="798.9" y="46.0" width="11" height="11" rx="2.5" fill="#0e4429"><title>2 on 2026-10-11</title></rect>
 <g class="f" style="animation-delay:1.38s" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">
-<text x="50.1" y="173.39999999999998"><tspan fill="#8b949e">total </tspan><tspan fill="#3fb950" font-weight="700">4,606</tspan></text>
+<text x="50.1" y="173.39999999999998"><tspan fill="#8b949e">total </tspan><tspan fill="#3fb950" font-weight="700">4,608</tspan></text>
 <text x="154.0" y="173.39999999999998"><tspan fill="#8b949e">streak </tspan><tspan fill="#3fb950" font-weight="700">8d</tspan></text>
 <text x="243.3" y="173.39999999999998"><tspan fill="#8b949e">longest </tspan><tspan fill="#3fb950" font-weight="700">20d</tspan></text>
 <text x="347.2" y="173.39999999999998"><tspan fill="#8b949e">best day </tspan><tspan fill="#3fb950" font-weight="700">123 (Apr 27)</tspan></text>
