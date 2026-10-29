@@ -1,6 +1,6 @@
 {
  "user": "Carlosvpm",
- "fetched": "2026-10-28",
+ "fetched": "2026-10-29",
  "days": [
   {
    "date": "2025-10-26",
@@ -1835,19 +1835,24 @@
   {
    "date": "2026-10-27",
    "level": 1,
-   "count": 20
+   "count": 18
   },
   {
    "date": "2026-10-28",
+   "level": 2,
+   "count": 30
+  },
+  {
+   "date": "2026-10-29",
    "level": 1,
-   "count": 4
+   "count": 1
   }
  ],
  "stats": {
-  "total": 4894,
-  "active_days": 276,
-  "current_streak": 25,
-  "longest_streak": 25,
+  "total": 4919,
+  "active_days": 277,
+  "current_streak": 26,
+  "longest_streak": 26,
   "best_day": {
    "date": "2026-04-27",
    "count": 123
@@ -1865,7 +1870,7 @@
    "2026-07": 452,
    "2026-08": 540,
    "2026-09": 438,
-   "2026-10": 632
+   "2026-10": 657
   }
  }
 }
