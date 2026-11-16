@@ -1,6 +1,6 @@
 {
  "user": "Carlosvpm",
- "fetched": "2026-11-15",
+ "fetched": "2026-11-16",
  "days": [
   {
    "date": "2025-11-16",
@@ -654,7 +654,7 @@
   },
   {
    "date": "2026-03-26",
-   "level": 2,
+   "level": 3,
    "count": 67
   },
   {
@@ -1815,7 +1815,7 @@
   {
    "date": "2026-11-13",
    "level": 4,
-   "count": 135
+   "count": 132
   },
   {
    "date": "2026-11-14",
@@ -1824,18 +1824,23 @@
   },
   {
    "date": "2026-11-15",
-   "level": 0,
-   "count": 0
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-16",
+   "level": 1,
+   "count": 20
   }
  ],
  "stats": {
-  "total": 5420,
-  "active_days": 277,
-  "current_streak": 42,
-  "longest_streak": 42,
+  "total": 5438,
+  "active_days": 279,
+  "current_streak": 44,
+  "longest_streak": 44,
   "best_day": {
    "date": "2026-11-13",
-   "count": 135
+   "count": 132
   },
   "monthly": {
    "2025-11": 37,
@@ -1850,7 +1855,7 @@
    "2026-08": 540,
    "2026-09": 446,
    "2026-10": 702,
-   "2026-11": 500
+   "2026-11": 518
   }
  }
 }
